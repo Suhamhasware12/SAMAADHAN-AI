@@ -65,5 +65,3 @@ SAMAADHAN AI is currently developed as an MVP/prototype demonstrating the comple
 
 Smart India Hackathon 2026  
 Problem Statement: **SIH26043**
-
----
