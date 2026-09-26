@@ -63,5 +63,6 @@ SAMAADHAN AI is currently developed as an MVP/prototype demonstrating the comple
 
 **GLITCH BLUSTERS**
 
-Smart India Hackathon 2026  
+Smart India Hackathon 2026
+
 Problem Statement: **SIH26043**
