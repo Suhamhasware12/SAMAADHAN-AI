@@ -66,7 +66,6 @@ SAMAADHAN AI is currently developed as an MVP/prototype demonstrating the comple
 Smart India Hackathon 2026
 
 Problem Statement: **SIH26043**
-## 👥 Team — GLITCH BLUSTERS
 
 ## 👥 Team — GLITCH BLUSTERS
 
@@ -76,5 +75,5 @@ Problem Statement: **SIH26043**
 | **Mahek Shaikh** | Team Member | [@BlubbleBlink](https://github.com/BlubbleBlink) |
 | **Sanyukta Katkam** | Team Member | [@sanyuktakatkam](https://github.com/sanyuktakatkam) |
 | **Kanishka Funde** | Team Member | — |
-| **Shreya Sherki** | Team Member | — |
-| **Vaishnavi Rupnar** | Team Member | — |
+| **Shreya Sherki** | Team Member | [@shreyasherki09](https://github.com/shreyasherki09) |
+| **Vaishnavi Rupnar** | Team Member | [@rupnarvaishnavi8-code](https://github.com/rupnarvaishnavi8-code) |
