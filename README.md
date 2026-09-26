@@ -77,3 +77,15 @@ Problem Statement: **SIH26043**
 | **Kanishka Funde** | Team Member | — |
 | **Shreya Sherki** | Team Member | [@shreyasherki09](https://github.com/shreyasherki09) |
 | **Vaishnavi Rupnar** | Team Member | [@rupnarvaishnavi8-code](https://github.com/rupnarvaishnavi8-code) |
+## 🔄 Project Workflow
+
+SAMAADHAN AI follows a capability-driven collaboration workflow:
+
+Problem Submission
+→ AI-Assisted Analysis
+→ Capability Extraction
+→ Stakeholder Matching
+→ Collaboration Gap Detection
+→ Partner Recommendation
+→ Collaboration Formation
+→ Progress Tracking
