@@ -68,9 +68,11 @@ Smart India Hackathon 2026
 Problem Statement: **SIH26043**
 ## 👥 Team — GLITCH BLUSTERS
 
+## 👥 Team — GLITCH BLUSTERS
+
 | Name | Role | GitHub |
 |---|---|---|
-| **Suham Hasware** | Team Leader | — |
+| **Suham Hasware** | Team Leader | [@Suhamhasware12](https://github.com/Suhamhasware12) |
 | **Mahek Shaikh** | Team Member | [@BlubbleBlink](https://github.com/BlubbleBlink) |
 | **Sanyukta Katkam** | Team Member | [@sanyuktakatkam](https://github.com/sanyuktakatkam) |
 | **Kanishka Funde** | Team Member | — |
