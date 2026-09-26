@@ -3,6 +3,25 @@
 # Matching & Collaboration Gap Detection Module
 # ============================================================
 
+# ============================================================
+# SAMAADHAN AI - Capability-Based Matching Engine
+# ============================================================
+# This module matches stakeholder capabilities with the
+# capabilities required to solve a submitted problem.
+#
+# The matching process is transparent and capability-based.
+# It identifies:
+# 1. Which stakeholders can contribute to the problem
+# 2. Which capabilities each stakeholder covers
+# 3. Which capabilities are still missing
+# 4. What type of partner can fill the collaboration gap
+#
+# Match levels:
+# STRONG MATCH  -> stakeholder covers all capability terms
+# GOOD MATCH    -> stakeholder covers a significant portion
+# PARTIAL MATCH -> limited capability overlap
+# ============================================================
+
 """
 This module performs transparent capability-based matching.
 
