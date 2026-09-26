@@ -54,6 +54,11 @@ The platform is designed to be problem-agnostic and can support challenges acros
 - Healthcare
 
 **Crop disease is a demonstration use case, not the limitation of the platform.**
+## 🌐 Live Demo
+
+Try the SAMAADHAN AI prototype:
+
+👉 [Launch SAMAADHAN AI](https://samaadhan-ai-h4yokpduakgy49rf6gmhfa.streamlit.app/)
 
 ## 🚀 Project Status
 
